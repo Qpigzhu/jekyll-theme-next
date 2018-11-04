@@ -4,12 +4,12 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: Pig
 subtitle:
-description:
-author: John Doe
+description:个人技术博客 搜索微信公众号 小猪探长
+author: By Pig&W
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
@@ -19,7 +19,7 @@ baseurl:
 permalink: pretty
 
 # Pagination
-paginate: 10
+paginate: 5
 #paginate_path: "/page:num/"
 #archive:
   #paginate: 10
@@ -79,7 +79,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "Pig&W, PigBlog"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -119,7 +119,7 @@ index_with_subtitle: false
 menu:
   home: /
   #categories: /categories/
-  #about: /about/
+  about: /about/
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
